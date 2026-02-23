@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=E6EDF3&center=true&vCenter=true&width=800&lines=Ansh+Tripathi;Full+Stack+Developer+(MERN);Next.js+%7C+Node.js;Building+Real-Time+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=E6EDF3&center=true&vCenter=true&width=850&lines=Ansh+Tripathi+✨;Full+Stack+Developer+(MERN)+💻;Next.js+%7C+Node.js+⚡;Building+Real-Time+Scalable+Systems+🚀" />
 </p>
 
 ---
